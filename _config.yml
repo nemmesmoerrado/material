@@ -10,5 +10,5 @@ html:
   use_repository_button: true
 
 repository:
-  url: https://github.com
+  url: https://github.com/nemmesmoerrado/material
   branch: main
