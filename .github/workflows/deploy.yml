@@ -23,7 +23,7 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar Jupyter Book
-        run: pip install -U jupyter-book
+        run: pip install "jupyter-book<2.0"
 
       - name: Construir o site
         run: jupyter-book build .
