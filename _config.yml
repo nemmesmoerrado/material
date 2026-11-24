@@ -1,6 +1,6 @@
 title: Nem Mesmo Errado!
 author: Nem Mesmo Errado
-# logo: logo.png  # (Quando você subir uma imagem chamada logo.png, basta apagar o '#' do início desta linha)
+logo: IMAGEM.jpg  # (Quando você subir uma imagem chamada logo.png, basta apagar o '#' do início desta linha)
 
 execute:
   execute_notebooks: off  # Usa os gráficos/saídas que você já rodou no Google Colab
