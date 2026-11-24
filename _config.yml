@@ -1,6 +1,6 @@
 title: Nem Mesmo Errado!
 author: Nem Mesmo Errado
-logo: IMAGEM.jpg 
+logo: imagem.png
 
 execute:
   execute_notebooks: off  # Usa os gráficos/saídas que você já rodou no Google Colab
