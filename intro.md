@@ -4,9 +4,9 @@ Bem-vindo! Aqui você encontra meu repositório interativo de estudos de Física
 
 O material está dividido nas seguintes seções principais:
 
-* [Física](caminho-do-arquivo-fisica)
-* [Matemática](caminho-do-arquivo-matematica)
-* [Programação em Python](caminho-do-arquivo-python)
+* [Física]
+* [Matemática]
+* [Programação em Python]
 
 Se você busca algum conteúdo específico, utilize a barra de pesquisa no menu à esquerda.
 
