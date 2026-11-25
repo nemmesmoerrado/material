@@ -6,9 +6,7 @@ on:
       - main
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -30,11 +28,8 @@ jobs:
         run: |
           jupyter-book build .
 
-      - name: Preparar arquivos para o GitHub Pages
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _build/html
-
       - name: Publicar no GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_build/html
