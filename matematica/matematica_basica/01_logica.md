@@ -31,7 +31,7 @@ Abaixo listamos alguns dos símbolos lógicos mais comuns. Para uma lista comple
   - quantificação existencial
   - existe, existe pelo menos um
   - \(\forall n \in \mathbb{N}, \exists x \in \mathbb{R} : \vert{} n - x \vert{} < 1\)
-  - Para todo número natural \(n\), existe um número real \(x\) tal que \(\vert{} n - x \vert{} < 1\)
+  - Para todo número natural \(n\), existe um número real \(x\) tal que \(\vert{} n - x\vert{} < 1\)
 * - \(\exists !\)
   - quantificação de unicidade
   - existe um único, existe exatamente um
