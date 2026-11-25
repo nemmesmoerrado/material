@@ -1,4 +1,5 @@
 format: jb-book
 root: intro
 chapters:
-  - file: primeiro_notebook
+  - file: matematica/matematica_basica/intro
+    title: Matemática Básica
