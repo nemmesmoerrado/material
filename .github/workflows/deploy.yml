@@ -23,10 +23,12 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar Jupyter Book
-        run: pip install "jupyter-book<2.0"
+        run: |
+          pip install -U jupyter-book
 
       - name: Construir o site
-        run: jupyter-book build .
+        run: |
+          jupyter-book build .
 
       - name: Preparar arquivos para o GitHub Pages
         uses: actions/upload-pages-artifact@v3
