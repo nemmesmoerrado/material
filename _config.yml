@@ -1,6 +1,6 @@
 title: Nem Mesmo Errado!
 author: Nem Mesmo Errado
-logo: logo.png
+logo: Logo.png
 
 execute:
   execute_notebooks: off  # Usa os gráficos/saídas que você já rodou no Google Colab
@@ -12,8 +12,3 @@ html:
 repository:
   url: https://github.com/nemmesmoerrado/material
   branch: main
-
-sphinx:
-  config:
-    html_context:
-      default_mode: dark
