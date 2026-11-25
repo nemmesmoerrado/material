@@ -17,7 +17,3 @@ sphinx:
   config:
     html_context:
       default_mode: dark
-    html_theme_options:
-      navbar_end:
-        - navbar-icon-links
-
