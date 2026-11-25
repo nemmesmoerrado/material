@@ -3,3 +3,5 @@ root: intro
 chapters:
   - file: matematica/matematica_basica/intro
     title: Matemática Básica
+    sections:
+      - file: matematica/matematica_basica/01_logica
