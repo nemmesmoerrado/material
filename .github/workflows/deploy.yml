@@ -24,7 +24,7 @@ jobs:
 
       - name: Instalar Jupyter Book
         run: |
-          pip install -U jupyter-book
+          pip install "jupyter-book<2.0"
 
       - name: Construir o site
         run: |
