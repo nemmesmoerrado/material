@@ -31,7 +31,7 @@ jobs:
       - name: Preparar arquivos para o GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _build/html
+          path: material/_build/html
 
       - name: Publicar no GitHub Pages
         id: deployment
