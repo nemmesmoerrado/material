@@ -4,9 +4,9 @@ Bem-vindo! Aqui você encontra meu repositório interativo de estudos de Física
 
 O material está dividido nas seguintes seções principais:
 
-* [Física]
-* [Matemática]
-* [Programação em Python]
+* Física
+* Matemática
+* Programação em Python
 
 Se você busca algum conteúdo específico, utilize a barra de pesquisa no menu à esquerda.
 
