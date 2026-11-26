@@ -12,3 +12,8 @@ html:
 repository:
   url: https://github.com/nemmesmoerrado/material
   branch: main
+
+parse:
+  myst_enable_extensions:
+    - dollarmath
+    - amsmath
