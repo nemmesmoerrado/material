@@ -22,11 +22,11 @@ Abaixo listamos alguns dos símbolos lógicos mais comuns. Para uma lista comple
   - Lê-se como
   - Exemplo
   - Significado
-* - \(\forall\)
+* - $\forall$
   - quantificação universal
   - para todo, para qualquer, para cada
-  - \(\forall x \in \mathbb{R}, x^2 \geq 0\)
-  - Para todo número real \(x\), \(x^2\) é maior ou igual a \(0\)
+  - $\forall x \in \mathbb{R}, x^2 \geq 0$
+  - Para todo número real $x$, $x^2$ é maior ou igual a $0$
 * - \(\exists\)
   - quantificação existencial
   - existe, existe pelo menos um
